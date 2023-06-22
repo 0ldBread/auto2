@@ -1,2 +1,2 @@
 # auto2
-[![Java CI with Gradle](https://github.com/0ldBread/auto2/actions/workflows/gradle.yml/badge.svg)](https://github.com/0ldBread/auto2/actions/workflows/gradle.yml)
+[![Build status](https://ci.appveyor.com/api/projects/status/qkiga7jhxlxj13q5/branch/main?svg=true)](https://ci.appveyor.com/project/0ldBread/auto2-kh5cg/branch/main)
